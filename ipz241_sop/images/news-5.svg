@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Презентація проєктів у залі</title>
+  <desc id="desc">Зал із екраном, подіумом і кількома яскравими блоками для презентації.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7fafc"/>
+      <stop offset="100%" stop-color="#dce7f2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#dde7f1"/>
+  <rect x="0" y="510" width="1200" height="290" fill="#bccedd"/>
+  <rect x="120" y="110" width="960" height="510" rx="34" fill="url(#wall)"/>
+  <rect x="210" y="166" width="780" height="266" rx="26" fill="#192433"/>
+  <rect x="250" y="206" width="700" height="186" rx="18" fill="#2f3d55"/>
+  <g fill="#f1c66a">
+    <rect x="286" y="238" width="160" height="28" rx="10"/>
+    <rect x="286" y="288" width="250" height="22" rx="10"/>
+    <rect x="286" y="332" width="210" height="22" rx="10"/>
+  </g>
+  <circle cx="770" cy="302" r="84" fill="#f3a86a"/>
+  <circle cx="770" cy="302" r="46" fill="#ffe6cb"/>
+  <rect x="360" y="480" width="480" height="76" rx="18" fill="#5c6f86"/>
+  <rect x="382" y="462" width="94" height="118" rx="16" fill="#d98b5f"/>
+  <rect x="518" y="450" width="94" height="130" rx="16" fill="#84b8c8"/>
+  <rect x="654" y="468" width="94" height="112" rx="16" fill="#f1c66a"/>
+  <rect x="146" y="614" width="908" height="28" rx="14" fill="#7f8ea3" opacity="0.55"/>
+</svg>
