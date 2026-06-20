@@ -57,7 +57,7 @@ img {
 .news-card {
   overflow: hidden;
   margin-top: 24px;
-  border: 1px solid var(--border);
+  border: 2px solid var(--border);
   border-radius: 24px;
   background: var(--surface);
   box-shadow: 0 18px 40px rgba(88, 64, 36, 0.08);
@@ -77,13 +77,13 @@ img {
 }
 
 .news-card h2 {
-  margin: 0 0 10px;
+  margin: 0 0 11px;
   font-size: 1.5rem;
 }
 
 .news-card p {
   margin: 0;
-  line-height: 1.7;
+  line-height: 1.8;
   color: var(--muted);
 }
 
@@ -112,7 +112,7 @@ img {
   width: min(1100px, calc(100% - 32px));
   margin: 0 auto 40px;
   padding: 18px 22px;
-  border: 1px solid var(--border);
+  border: 1.1px solid var(--border);
   border-radius: 18px;
   background: rgba(255, 250, 242, 0.7);
   color: var(--muted);
