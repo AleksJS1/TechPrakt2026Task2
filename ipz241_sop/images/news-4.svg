@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Спортивний майданчик біля корпусу</title>
+  <desc id="desc">Яскрава ілюстрація волейбольного майданчика з сіткою та м'ячем.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#88c7ff"/>
+      <stop offset="100%" stop-color="#dff4ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <rect x="0" y="540" width="1200" height="260" fill="#6fb36d"/>
+  <path d="M0 610h1200" stroke="#f7f1d0" stroke-width="12" opacity="0.9"/>
+  <rect x="160" y="300" width="880" height="250" rx="28" fill="#79c4c5" opacity="0.45"/>
+  <path d="M260 320v220M940 320v220" stroke="#ffffff" stroke-width="14"/>
+  <path d="M260 430h680" stroke="#ffffff" stroke-width="12"/>
+  <path d="M260 360h680M260 500h680" stroke="#ffffff" stroke-width="6" opacity="0.75"/>
+  <g fill="#ffcf5e">
+    <circle cx="360" cy="370" r="54"/>
+    <circle cx="860" cy="474" r="54"/>
+  </g>
+  <path d="M360 316v108M306 370h108" stroke="#fff" stroke-width="10" opacity="0.65"/>
+  <path d="M860 420v108M806 474h108" stroke="#fff" stroke-width="10" opacity="0.65"/>
+  <rect x="70" y="180" width="180" height="340" rx="28" fill="#f5efe3"/>
+  <rect x="88" y="212" width="144" height="36" rx="10" fill="#d07a5b"/>
+  <rect x="88" y="268" width="144" height="36" rx="10" fill="#8cb6cb"/>
+  <rect x="88" y="324" width="144" height="36" rx="10" fill="#f0c37b"/>
+  <rect x="88" y="380" width="144" height="96" rx="12" fill="#dbe9d3"/>
+</svg>
