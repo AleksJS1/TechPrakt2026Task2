@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Місто ввечері</title>
+  <desc id="desc">Стилізований вечірній міський пейзаж з ліхтарями та світлом вікон.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#20314f"/>
+      <stop offset="100%" stop-color="#5b7595"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <circle cx="930" cy="155" r="86" fill="#ffd98a" opacity="0.9"/>
+  <path d="M0 530h1200v270H0z" fill="#111827"/>
+  <path d="M80 615h160v-190h-160z" fill="#2c3b57"/>
+  <path d="M280 570h190v-250H280z" fill="#314565"/>
+  <path d="M520 610h220v-210H520z" fill="#25324c"/>
+  <path d="M780 565h170v-260H780z" fill="#314565"/>
+  <path d="M990 598h130v-220H990z" fill="#2c3b57"/>
+  <g fill="#ffe8a3">
+    <rect x="110" y="666" width="28" height="28" rx="4"/>
+    <rect x="150" y="666" width="28" height="28" rx="4"/>
+    <rect x="320" y="610" width="32" height="32" rx="4"/>
+    <rect x="370" y="610" width="32" height="32" rx="4"/>
+    <rect x="572" y="662" width="34" height="34" rx="4"/>
+    <rect x="622" y="662" width="34" height="34" rx="4"/>
+    <rect x="816" y="618" width="30" height="30" rx="4"/>
+    <rect x="856" y="618" width="30" height="30" rx="4"/>
+    <rect x="1034" y="647" width="28" height="28" rx="4"/>
+  </g>
+  <g fill="#f9b34d">
+    <circle cx="175" cy="575" r="10"/>
+    <circle cx="405" cy="520" r="10"/>
+    <circle cx="650" cy="555" r="10"/>
+    <circle cx="860" cy="505" r="10"/>
+    <circle cx="1062" cy="538" r="10"/>
+  </g>
+  <rect x="0" y="760" width="1200" height="40" fill="#0b1220"/>
+</svg>
