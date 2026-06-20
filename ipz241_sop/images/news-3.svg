@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Книжки та планер на столі</title>
+  <desc id="desc">Натюрморт із книжками, блокнотом та чашкою на світлому столі.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6efe3"/>
+      <stop offset="100%" stop-color="#e7d2b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#f5e8d8"/>
+  <rect x="0" y="510" width="1200" height="290" fill="#d8c1a8"/>
+  <rect x="110" y="155" width="980" height="470" rx="40" fill="url(#surface)"/>
+  <rect x="220" y="235" width="220" height="270" rx="18" fill="#4f6d7a"/>
+  <rect x="260" y="215" width="220" height="270" rx="18" fill="#9bb8c5"/>
+  <rect x="316" y="182" width="220" height="270" rx="18" fill="#d07a5b"/>
+  <rect x="610" y="220" width="300" height="230" rx="22" fill="#ffffff"/>
+  <path d="M640 260h240M640 302h240M640 344h180" stroke="#d6b08f" stroke-width="10" stroke-linecap="round"/>
+  <rect x="660" y="390" width="136" height="22" rx="11" fill="#e88b6d"/>
+  <rect x="690" y="140" width="110" height="110" rx="28" fill="#b96d45"/>
+  <circle cx="745" cy="194" r="38" fill="#f6d7c0"/>
+  <path d="M730 190c4-16 12-24 27-24 14 0 22 7 28 22-4 5-8 7-13 7h-27c-6 0-10-1-15-5z" fill="#4f3423"/>
+  <rect x="778" y="240" width="108" height="168" rx="18" fill="#8c5e3e"/>
+  <path d="M836 240v168" stroke="#f4e2cf" stroke-width="8"/>
+  <circle cx="842" cy="420" r="36" fill="#e4a96d"/>
+</svg>
